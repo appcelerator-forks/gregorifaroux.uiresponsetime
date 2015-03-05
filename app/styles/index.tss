@@ -1,0 +1,13 @@
+".container": {
+	backgroundColor:"white",
+	layout: "vertical"
+},
+"#icon": {
+	top: 100
+},
+"Button": {
+	top: 50,
+	backgroundColor: Alloy.Globals.defaultColor,
+	borderRadius: 5,
+	width: 200,
+}

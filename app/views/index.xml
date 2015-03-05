@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<ImageView id="icon" image="appicon-72.png"></ImageView>
+		<Button id="like" title="Like" onClick="like"></Button>
+		<Button id="optimizedLike" title="Optimized Like" onClick="optimizedLike"></Button>
+	</Window>
+</Alloy>
