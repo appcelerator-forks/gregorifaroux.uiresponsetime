@@ -2,7 +2,7 @@ function like(e) {
 	setTimeout(function() {
 		Ti.API.info("like");
 		e.source.backgroundColor = (e.source.backgroundColor === Alloy.Globals.defaultColor) ? Alloy.Globals.likedColor : Alloy.Globals.defaultColor;
-	},5000);
+	},1000);
 	
 }
 
